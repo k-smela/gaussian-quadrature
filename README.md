@@ -16,7 +16,7 @@ quadrature's accuracy against Simpson's rule, comparing error as a function
 of the number of function evaluations each method requires.
 
 ## Contents
-- `gaussian-quadrature.pdf` — full paper: background, derivation, and 
+- `Gaussian-Quadrature.pdf` — full paper: background, derivation, and 
   application of Gaussian quadrature
 
 ## Skills Demonstrated
